@@ -144,6 +144,7 @@ Alternatively, report issues or suggest improvements via the repository's issue 
 ## Author
 
 🏁 Created by: Aditi Sah
+
 📧 aditisah946@gmail.com
 
 ## License
