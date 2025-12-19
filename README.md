@@ -124,6 +124,7 @@ Alternatively, report issues or suggest improvements via the repository's issue 
 🎨 **Icon Credit**: Icon by Flaticon - Author: Sudowoodo
 
 📌 https://www.flaticon.com/free-icon/person_13482183
+
 📌 https://www.flaticon.com/free-icon/avatar_13482193
 
 ## Author
