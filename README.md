@@ -77,7 +77,7 @@ The dataset (`Heart_Disease_Dataset.xlsx`) is sourced from publicly available he
 ## Screenshots
 
 ### Female Insights
-![Heart Disease Female Insights](Heart Disease Female Insights.png)
+<img src="Heart Disease Female Insights.png" alt="Heart Disease Female Insights" width="5000">
 *Overview of heart disease patterns and risk factors specific to female patients.*
 
 - Women often present with atypical symptoms such as shortness of breath, nausea, and fatigue, rather than chest pain.
@@ -86,7 +86,7 @@ The dataset (`Heart_Disease_Dataset.xlsx`) is sourced from publicly available he
 - Lifestyle factors like stress and depression play a notable role in female heart disease.
 
 ### Male Insights
-![Heart Disease Male Insights](Heart Disease Male Insights.png)
+<img src="Heart Disease Male Insights.png" alt="Heart Disease Male Insights" width="5000">
 *Comparative analysis highlighting trends and outcomes for male patients.*
 
 - Traditional symptoms like chest pain and left arm discomfort are more common in men.
@@ -144,7 +144,6 @@ Alternatively, report issues or suggest improvements via the repository's issue 
 ## Author
 
 🏁 Created by: Aditi Sah
-
 📧 aditisah946@gmail.com
 
 ## License
