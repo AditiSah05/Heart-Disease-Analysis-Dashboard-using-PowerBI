@@ -10,22 +10,6 @@ The goal of the Heart Disease Analysis Dashboard is to provide an interactive pl
 
 
 
-## Table of Contents
-
-- [Goal](#goal)
-- [Author](#author)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Screenshots](#screenshots)
-- [Insights](#insights)
-- [Project Impact](#project-impact)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 ## Features
 
